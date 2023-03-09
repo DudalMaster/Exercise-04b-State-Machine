@@ -1,7 +1,7 @@
 ```
 # Exercise-04b-State-Machine
 
-Exercise for MSCH-C220
+Exercise for Deryk Tibbs
 
 The first exercise for the 2D Platformer project, exploring AnimatedSprite and a simple state machine.
 
@@ -21,5 +21,5 @@ None
 
 ## Created by 
 
-Jason Francis
+Deryk Tibbs
 ```
